@@ -1,0 +1,12 @@
+total 13
+drwxr-xr-x 1 bagria 1049089   0 Sep 19 17:10 ./
+drwxr-xr-x 1 bagria 1049089   0 Aug 22 16:54 ../
+drwxr-xr-x 1 bagria 1049089   0 Sep 19 17:09 .git/
+-rw-r--r-- 1 bagria 1049089   0 Sep 19 17:10 a.txt
+-rw-r--r-- 1 bagria 1049089   0 Aug 22 16:54 file4.txt
+-rw-r--r-- 1 bagria 1049089  11 Aug 22 16:54 first-file.txt
+-rw-r--r-- 1 bagria 1049089  84 Aug 22 16:54 README.md
+-rw-r--r-- 1 bagria 1049089   0 Aug 22 16:54 test-commit.txt
+-rw-r--r-- 1 bagria 1049089  18 Aug 22 16:54 test-git.txt
+-rw-r--r-- 1 bagria 1049089 180 Sep 19 14:35 testing-revert.txt
+-rw-r--r-- 1 bagria 1049089  51 Aug 22 16:54 test-rebase.txt
