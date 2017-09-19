@@ -1,4 +1,8 @@
 intital commit testing revert 
 second change to test reverting from local repo
+<<<<<<< HEAD
 third change to test reverting from central repo
 fourth change to test reverting from central repo
+=======
+third change to test reverting from central repo
+>>>>>>> b6f809b0132167989513879b66471b806e29f423
